@@ -5,7 +5,7 @@ Explanation of each feature:
 
 2. Messages - A simulation where you can message people and recieve automatic replies. Automatic replies come from a dictionary, which I am expanding constantly.
 
-3. Tic-Tac-Toe - A game of Tic-Tac-Toe. You against the bot. Might add different powerups or features to this for a more fun experience.
+3. Tic-Tac-Toe - A game of Tic-Tac-Toe. Intended to be played with 2 players. Might add different powerups or features to this for a more fun experience as well as a bot to play against.
 
 4. System Monitor - A simulation that shows the user logged in, the OS version, CPU Load, RAM Usage and OS Uptime.
 
