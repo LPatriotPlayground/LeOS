@@ -11,4 +11,10 @@ Explanation of each feature:
 
 5. Code Editor - This is the most advanced feature in the software. Upon choosing the Code Editor in the start-up menu, you can choose from 6 options; List & Run Saved Scripts, Create or Edit Script, View Script Source Code, Python REPL Environment, Delete Script and Return to Desktop. I won't explain each option, so I advise you try out the Code Editor and REPL Environment yourself to see what it has to offer.
 
+6. Logic Gate Simulator - A simulation where you can use logic gates and check outputs.
+
+7. Word Generator - A program in the OS that generates a new word/sentence whenever you press ENTER.
+
+8. Countdown Timer - A program that takes a numeric value (in seconds) from the user and counts down from that value.
+
 If you have suggestions for features I should add (Python-friendly), you can contact me by the email linked to my GitHub account. Maybe you'd like to see a new game or an OS feature, or a bigger variety of programming languages that can be used in the Code Editor?
