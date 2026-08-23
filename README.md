@@ -15,6 +15,6 @@ Explanation of each feature:
 
 7. Word Generator - A program in the OS that generates a new word/sentence whenever you press ENTER.
 
-8. Countdown Timer - A program that takes a numeric value (in seconds) from the user and counts down from that value.
+8. Countdown Timer - A program that takes an integer from the user and counts down from that value (in seconds).
 
 If you have suggestions for features I should add (Python-friendly), you can contact me by the email linked to my GitHub account. Maybe you'd like to see a new game or an OS feature, or a bigger variety of programming languages that can be used in the Code Editor?
