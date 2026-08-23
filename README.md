@@ -9,12 +9,12 @@ Explanation of each feature:
 
 4. System Monitor - A simulation that shows the user logged in, the OS version, CPU Load, RAM Usage and OS Uptime.
 
-5. Code Editor - This is the most advanced feature in the software. Upon choosing the Code Editor in the start-up menu, you can choose from 6 options; List & Run Saved Scripts, Create or Edit Script, View Script Source Code, Python REPL Environment, Delete Script and Return to Desktop. I won't explain each option, so I advise you try out the Code Editor and REPL Environment yourself to see what it has to offer.
+5. Multi-Language IDE - This is the most advanced feature in the software. Upon choosing the IDE in the start-up menu, you can choose from 6 options; List & Run Files, Create or Edit File, Python REPL Environment and Return to Desktop. I won't explain each option, so I advise you try out the IDE and REPL Environment yourself to see what it has to offer. As of the v3.5 release, the IDE now supports 5 languages: Python, C, C++, Java, and Rust.
 
-6. Logic Gate Simulator - A simulation where you can use logic gates and check outputs.
+6. Logic Gate Simulator - A simulation where you can use logic gates, create your own circuits and check outputs.
 
 7. Word Generator - A program in the OS that generates a new word/sentence whenever you press ENTER.
 
 8. Countdown Timer - A program that takes an integer from the user and counts down from that value (in seconds).
 
-If you have suggestions for features I should add (Python-friendly), you can contact me by the email linked to my GitHub account. Maybe you'd like to see a new game or an OS feature, or a bigger variety of programming languages that can be used in the Code Editor?
+If you have suggestions for features I should add (Python-friendly), you can contact me by the email linked to my GitHub account. Maybe you'd like to see a new game or an OS feature, or a bigger variety of programming languages that can be used in the IDE?
