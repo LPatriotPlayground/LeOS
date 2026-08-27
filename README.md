@@ -7,7 +7,7 @@ Explanation of each feature:
 
 3. Tic-Tac-Toe - A game of Tic-Tac-Toe. Intended to be played with 2 players. Might add different powerups or features to this for a more fun experience as well as a bot to play against.
 
-4. System Monitor - A simulation that shows the user logged in, the OS version, CPU Load, RAM Usage and OS Uptime.
+4. Settings - An app where you can adjust a lot of settings to your liking.
 
 5. Multi-Language IDE - This is the most advanced feature in the software. Upon choosing the IDE in the start-up menu, you can choose from 6 options; List & Run Files, Create or Edit File, Python REPL Environment and Return to Desktop. I won't explain each option, so I advise you try out the IDE and REPL Environment yourself to see what it has to offer. As of the v3.5 release, the IDE now supports 5 languages: Python, C, C++, Java, and Rust.
 
