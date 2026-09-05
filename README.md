@@ -17,4 +17,6 @@ Explanation of each feature:
 
 8. Countdown Timer - A program that takes an integer from the user and counts down from that value (in seconds).
 
+9. File Manager - A program that lets you create, edit and delete files. For now, it doesn't save upon exiting the system, but it will be implemented soon.
+
 If you have suggestions for features I should add (Python-friendly), you can contact me by the email linked to my GitHub account. Maybe you'd like to see a new game or an OS feature, or a bigger variety of programming languages that can be used in the IDE?
